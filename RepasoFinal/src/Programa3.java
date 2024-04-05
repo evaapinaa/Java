@@ -8,7 +8,7 @@ public class Programa3 {
 
 	public static void main(String[] args) {
 		
-		Valoracion valoracion1 = new Valoracion("Ana", 5, "Buena valoración");
+	    Valoracion valoracion1 = new Valoracion("Ana", 5, "Buena valoración");
 	    Valoracion valoracion2 = new Valoracion("Pepe", 5);
 	    Valoracion valoracion3 = new Valoracion("Shrek", 5, "Excelente servicio");
 	    Valoracion valoracion4 = new Valoracion("Benito", 5, "Muy recomendable");
