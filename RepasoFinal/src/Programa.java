@@ -10,7 +10,7 @@ import Repaso.Cita;
 public class Programa {
 
 	public static void main(String[] args) {
-		LocalDate fechaActual = LocalDate.now();
+	    LocalDate fechaActual = LocalDate.now();
 	    LocalDate ayer = fechaActual.minusDays(1);
 	    LocalDate mañana = fechaActual.plusDays(2);
 	    
