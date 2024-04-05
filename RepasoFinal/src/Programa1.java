@@ -10,9 +10,9 @@ public class Programa1 {
 	public static void main(String[] args) {
 		
 		Tramo t1 = new Tramo(DayOfWeek.MONDAY, 9, 12);
-        Tramo t2 = new Tramo(DayOfWeek.MONDAY, 15, 18);
-        Tramo t3 = new Tramo(DayOfWeek.FRIDAY, 10, 14);
-        Tramo t4 = new Tramo(DayOfWeek.SATURDAY, 8, 11);
+                Tramo t2 = new Tramo(DayOfWeek.MONDAY, 15, 18);
+                Tramo t3 = new Tramo(DayOfWeek.FRIDAY, 10, 14);
+                Tramo t4 = new Tramo(DayOfWeek.SATURDAY, 8, 11);
 
 		List<Tramo> tramos = new LinkedList<Tramo>();
 		Collections.addAll(tramos, t1, t2, t3, t4);
