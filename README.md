@@ -11,6 +11,9 @@ Introducción a Java y POO:
 - Correción y robustez: excepciones 
 
 Todas las sesiones de prácticas, teoría y algunos exámenes.
+
+NOTA: Sesión 1, 2 y 3 corresponden a la carpeta Rectangulo
+
 ## Autoría
 
 - [@evaapinaa](https://www.github.com/evaapinaa)
