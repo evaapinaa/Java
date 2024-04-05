@@ -39,7 +39,7 @@ Sesión 7, y ejercicio 3 de teoría
 ### Colecciones y genericidad
 Sesión 8, 9, 9-2
 
-### Programación funcional,expresiones lambda
+### Programación funcional, expresiones lambda
 Sesión 10
 
 ### Correción y robustez: excepciones
