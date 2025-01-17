@@ -48,4 +48,4 @@ Sesión 11 y ejercicio 6 de teoría
 ### Exámenes
 Buenos ejemplos de toda la teoría conjunta
 
-MiExamen-Enero: cubre de todo menos clases abstractas y herencia. Pude quitarme esas partes con parciales.
+MiExamen-Enero: cubre de todo menos clases abstractas y herencia.
